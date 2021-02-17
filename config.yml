@@ -109,6 +109,10 @@ params:
     # comments: false
     images: ["papermod-cover.png"]
 
+    mainSections:
+        - posts
+        - test-pages
+
     profileMode:
         enabled: false
         title: PaperMod
