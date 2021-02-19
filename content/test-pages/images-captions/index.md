@@ -20,3 +20,6 @@ cover:
 
 #### Image with caption
 {{< figure src="image.jpg" caption="Some cool-looking place" >}}
+
+#### Small image
+{{< figure width=400 src="image.jpg" caption="Some cool-looking place" title="Snowy forest (small)" attr="--- by Yang Shuo" attrlink="https://unsplash.com/photos/uYHYGgvkz_Y" >}}
